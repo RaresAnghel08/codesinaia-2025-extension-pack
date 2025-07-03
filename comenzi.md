@@ -19,3 +19,8 @@ vsce package
 ```
 npm install -g @vscode/vsce
 ```
+
+## Useful links
+- [Text](https://medium.com/@sanik.bajracharya/vscode-how-to-create-your-own-extension-pack-483385644c29)
+- [Youtube](https://www.youtube.com/watch?v=DvNXEBxO3YQ&t=130s&ab_channel=codeSTACKr)
+
